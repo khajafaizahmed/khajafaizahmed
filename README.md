@@ -11,6 +11,15 @@ end, from the data model to the UI to the CI pipeline that ships it.
 
 ---
 
+#### 💼 Experience
+
+- **Backend Software Engineering Intern (Cloud, Data & AI) · Quadrant Technologies** (Jul–Aug 2026)
+  Built FastAPI services on Azure App Service integrating Azure OpenAI, AI Search, Azure SQL and Blob Storage;
+  integrated Microsoft Graph with OAuth2 / Entra ID and Key Vault-backed managed identity; shipped with
+  91 automated tests in CI/CD (GitHub Actions, Azure DevOps) and Terraform.
+- **Graduate Research Assistant · UW Tacoma**: machine learning research on sepsis using de-identified MIMIC clinical data.
+- **Course Grader, TCSS 142 · UW Tacoma**: built web-based Java tester tools students used to check their assignments.
+
 #### 🧠 AI & ML systems, in [`ai-ml-engineering-portfolio`](https://github.com/khajafaizahmed/ai-ml-engineering-portfolio)
 
 | Project | What it does | Built with |
